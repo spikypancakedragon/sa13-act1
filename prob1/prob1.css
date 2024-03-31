@@ -1,0 +1,44 @@
+
+.blog_text {
+    color: orange;
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: 'Helvetica', sans-serif;
+}
+
+article {
+    width: 90%;
+    padding:50px;
+    border: 5px solid goldenrod;
+    margin-bottom: 30px;
+    border-radius: 8px;
+}
+
+header {
+    text-align: center;
+    color: tan;
+    font-family: serif;
+    padding: 20px;
+}
+
+body {
+    background-color: lightcyan;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+h2 {
+    color: darkgoldenrod;
+    font-family: serif;
+}
+footer {
+    border-radius: 8px  ;
+    color: orange;
+    border: 5px solid goldenrod;
+    padding: 10px
+    
+}
+
+hr {
+    color: tan
+}

@@ -1,0 +1,45 @@
+body {
+    background-color:darkseagreen;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+p {
+    color:darkslategray;
+}
+
+h2 {
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+h1 {
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+#porf { 
+    display: flexbox;
+    padding: 20px;
+    border: 10px solid darkgoldenrod;
+    border-radius: 10px;
+    background-color: bisque;
+    margin: 10px;
+}
+
+.art:hover {
+    width: 80%;
+}
+
+nav {
+    background-color:bisque;
+    border-radius: 8px;
+    padding: 10px;
+}
